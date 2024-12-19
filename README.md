@@ -36,7 +36,12 @@
 </div>
 
 ## 📊 GitHub Stats
-![Poliana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pollytakisita&show_icons=true&theme=tokyonight)
+![Poliana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pollytakisita&show_icons=true&theme=tokyonight) 
 
 ## 🔧 Tecnologias Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollytakisita&layout=compact&theme=tokyonight)
+
+## 🏆 GitHub Trophy  
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pollytakisita&theme=tokyonight)
+
+
