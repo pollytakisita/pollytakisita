@@ -2,7 +2,7 @@
 
 
 >- 💬 Ask me about: Control and Automation Engineer with an MBA in Retail (Physical and Online) and Marketing, as well as a Full Stack Web Development course.I am focusing my career on security and digital fraud prevention.
->- 🌱 I’m currently learning Python e Cibersegurança
+>- 🌱 I’m currently learning Python and cybersecurity
 >- 📫 **How to reach me:** polianarodrigues.eng@outlook.com
 >- 😄 **Pronouns:** She/Her
 
@@ -29,7 +29,9 @@
 ## 🌐 Connect with me
 
 <div> 
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/polianatakisita" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
   <a href="https://discord.com/invite/your-discord-link" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://tiktok.com/invite/your-tiktok-link" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
  
@@ -38,7 +40,7 @@
 ## 📊 GitHub Stats
 ![Poliana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pollytakisita&show_icons=true&theme=tokyonight) 
 
-## 🔧 Tecnologias Mais Usadas
+## 🔧 Most Used Technologies
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollytakisita&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophy  
