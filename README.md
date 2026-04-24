@@ -4,8 +4,6 @@
 >- 💬 Ask me about: Control and Automation Engineer with an MBA in Retail (Physical and Online) and Marketing, as well as a Full Stack Web Development course.I am focusing my career on security and digital fraud prevention.
 >- 🌱 I’m currently learning Python and cybersecurity
 >- 📫 **How to reach me:** polianarodrigues.eng@outlook.com
->- 😄 **Pronouns:** She/Her
-
 
 ## 💻  Language, Software, and Technology
 >*Basic to intermediate knowledge*
